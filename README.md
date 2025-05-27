@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Aryan 👋
 
 I'm a full-stack engineer focused on building **scalable, real-time systems** with deep integration of backend intelligence, modern frontend UX, and production-grade DevOps. 
 
