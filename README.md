@@ -8,7 +8,7 @@ I specialize in designing and engineering platforms that go beyond CRUD — syst
 
 ## 🚀 What I Build
 
-- 🛒 **Real-Time E-Commerce Platforms**  
+- 🛒 **Real-Time  Platforms**  
   Featuring personalized engines with real-time stock updates, flash sale alerts, interactive search caching (Redis), WebSocket user grouping, Stripe integration, and scalable product delivery logic via BullMQ queues.
 
 - 🧠 **Custom Infrastructure & Microservices**  
